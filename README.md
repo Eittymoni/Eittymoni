@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eittymoni&label=Profile%20views&color=0e75b6&style=flat" alt="eittymoni" /> </p>
 
-- 🌱 I’m currently learning **Web Development & Frontend Development With React**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [eitty-portfolio.vercel.app/](eitty-portfolio.vercel.app/)
 
