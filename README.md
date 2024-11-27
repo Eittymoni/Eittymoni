@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub's World👋
 
-## I'm a Frontend Developer passionate about creating simple, original, and impactful User Experiences.🚀
+## I'm a Frontend Developer passionate about creating simple, original, and impactful User Experiences using modern web technologies. 🚀
 
 
 - 🌱 I’m currently learning **Web Development**
