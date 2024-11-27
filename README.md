@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Eitty Moni</h1>
-<h3 align="center"> Frontend Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+# Hi there, I'm [Eitty moni]👩🏻‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eittymoni&label=Profile%20views&color=0e75b6&style=flat" alt="eittymoni" /> </p>
+### Welcome to my GitHub's World👋
+
+
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **eitty.t@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aXUfjg4tjdyrW3_SOXPVGgjHQYSZOWSX/view?usp=sharing](https://drive.google.com/file/d/1aXUfjg4tjdyrW3_SOXPVGgjHQYSZOWSX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
