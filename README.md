@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [eitty-portfolio.vercel.app/](eitty-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://eitty-portfolio.vercel.app/)
 
 - 📫 How to reach me **eitty.t@gmail.com**
 
