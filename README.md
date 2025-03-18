@@ -4,7 +4,7 @@
 
 ## I'm a Frontend Developer passionate about creating simple, original, and impactful User Experiences using modern web technologies. 🚀
 
--🔭 I’m currently working as a Frontend Developer at Softvence Agency.
+-🔭 I currently work as a **Frontend Developer** at Softvence Agency.
 - 🌱 I’m learning **Web Development**
 
 - 👨‍💻 All of my projects are available at (https://eitty-portfolio.vercel.app/)
