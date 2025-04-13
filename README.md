@@ -7,8 +7,6 @@
 -  🔭 I currently work as a **Frontend Developer** at Softvence Agency.
 - 🌱 I’m learning **Web Development**
 
-- 👨‍💻 All of my projects are available at (https://eitty-portfolio.vercel.app/)
-
 - 📫 How to reach me **eitty.t@gmail.com**
 
 
