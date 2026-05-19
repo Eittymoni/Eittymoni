@@ -5,7 +5,7 @@
 ## I'm a Frontend Developer passionate about creating simple, original, and impactful User Experiences using modern web technologies. 🚀
 
 -  🔭 I currently work as a **Frontend Developer** at Travel Business portal.
-- 🌱 I’m learning **Web Development**
+- 🌱 I’m learning **Android App Development**
 
 - 📫 How to reach me **eitty.t@gmail.com**
 
