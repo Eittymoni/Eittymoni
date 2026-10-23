@@ -7,7 +7,7 @@
 -  🔭 I currently work as a **Frontend Developer** at Travel Business portal.
 - 🌱 I’m learning **Android App Development**
 
-- 📫 How to reach me **eitty.t@gmail.com**
+- 📫 How to reach me **eitty.dil@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
